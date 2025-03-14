@@ -107,10 +107,13 @@ The **Course Recommendation System** provides personalized course suggestions ba
 
 ## 🗼️ Screenshots
 
-> _Add screenshots of the recommendation interface and dashboard here._  
-> Example:
-- **Course Recommendations Page**  
-- **Data Analytics Dashboard**
+### Course Recommendations Output
+
+![Recommendations Screenshot](screenshots/recommendations.png)
+
+### Analytics Dashboard
+
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 ---
 
